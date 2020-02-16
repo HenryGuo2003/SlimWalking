@@ -10,4 +10,6 @@
     <string name="title_activity_calculate_screen">CalculateScreen</string>
     <string name="CalculateRoute">Best Route Calculating...</string>
     <string name="title_activity_guiding_page">GuidingPage</string>
+    <string name="StartWalking">Start Walking...</string>
+    <string name="StopWalking">Stop Walking</string>
 </resources>

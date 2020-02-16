@@ -7,38 +7,18 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/StartWalking"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/Destination"
+        android:text="@string/StartWalking"
         android:textSize="36sp"
         android:layout_marginBottom="30dp" />
 
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:ems="30"
-        android:inputType="textPersonName"
-        android:text="@string/InsertDesBox"
-        android:textColorLink="#00000000"
-        android:textSize="24sp"
-        android:gravity="center"/>
-
     <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="170dp"
-        android:text="@string/ListenAgainButton"
-        android:textSize="36sp"
-        android:layout_marginBottom="50dp"/>
-
-    <Button
-        android:id="@+id/button3"
+        android:id="@+id/StopWalking"
         android:layout_width="match_parent"
         android:layout_height="316dp"
-        android:text="@string/CallForHelp"
+        android:text="@string/StopWalking"
         android:textSize="36sp"
         android:background="@color/colorAccent"/>
 

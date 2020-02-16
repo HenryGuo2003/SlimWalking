@@ -21,13 +21,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val button3callAct : Button = findViewById(R.id.button3) // Long click "call for help" button and make a phone call
-        button3callAct.setOnLongClickListener{
-            val intent = Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "9722950330"))
-            startActivity(intent)
-            true
-        }
-
     }
 
 }
