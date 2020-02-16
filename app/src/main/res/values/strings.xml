@@ -7,4 +7,7 @@
     <string name="InsertDesBox">Insert your Destination Here</string>
     <string name="ListenAgainButton">Listen Again</string>
     <string name="CallForHelp">Call for Help</string>
+    <string name="title_activity_calculate_screen">CalculateScreen</string>
+    <string name="CalculateRoute">Best Route Calculating...</string>
+    <string name="title_activity_guiding_page">GuidingPage</string>
 </resources>
