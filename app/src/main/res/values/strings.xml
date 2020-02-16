@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinSlimWalking</string>
+    <string name="this_is_imageview">This is imageView</string>
+    <string name="listen_intro">Listen_Intro_Again</string>
+    <string name="title_activity_insert_menu">InsertMenu</string>
+    <string name="Destination">Choose your Destination</string>
+    <string name="InsertDesBox">Insert your Destination Here</string>
+    <string name="ListenAgainButton">Listen Again</string>
+    <string name="CallForHelp">Call for Help</string>
+</resources>
