@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="435dp"
         android:contentDescription="@string/this_is_imageview"
-        app:srcCompat="@drawable/icon" />
+        app:srcCompat="@drawable/Icon" />
 
     <Button
         android:id="@+id/button"
